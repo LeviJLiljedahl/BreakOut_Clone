@@ -6,4 +6,4 @@ This is a clone of the classic game Break Out. The object is to move your paddle
 
 Levi J. Liljedahl w/ credit to Kenny Yip Coding
 
-Copyright 2045 Levi J. Liljedahl, all rights reserved.
+Copyright 2024 Levi J. Liljedahl, all rights reserved.
